@@ -1,4 +1,8 @@
 _repo: Memorials-of-the-Life-of-Amelia-Opie-Selected-and-Arranged-from-her-Letters-Diaries-and-other__47595
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47595-h/images/cover.jpg
 creator:
   author:
     agent_name: Brightwell, C. L. (Cecilia Lucy)
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '3018'
     url: http://www.gutenberg.org/2009/agents/3018
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47595#Memorials-of-the-Life-of-Amelia-Opie-Selected-and-Arranged-from-her-Letters-Diaries-and-other_
 gutenberg_issued: '2014-12-08'
 gutenberg_type: Text
 identifiers:
